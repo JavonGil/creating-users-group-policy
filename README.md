@@ -3,7 +3,7 @@
  alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Creating Users and Group Policy Objects for Active Directory</h1>
+<h1>Creating Users and Group Policy for Active Directory</h1>
 This tutorial outlines creating a User Database and Group Policy Objects for Active Directory within Azure Virtual Machines.<br />
 
 <h2>Prerequisite</h2>
