@@ -235,6 +235,6 @@ This tutorial outlines creating a User Database and Group Policy Objects for Act
 
 <h2>Conclusion</h2>
 
-<p>This concludes our project.  We added a ton of users to the domain and setup some Group Policy Objects. Playing a Domain Admin is pretty interesting and we barley scratched the surface. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+<p>That’s a wrap on this project. We added a whole batch of users to our domain and set up some essential Group Policy Objects to manage how things work across the network. Acting as a Domain Admin gave us a real taste of what it’s like to run the show in a Windows Server environment and honestly, we’ve only just scratched the surface of what Active Directory can do. From centralized user management to enforcing policies across machines, this is where IT starts to feel powerful. Make sure to stop your VMs in Azure to avoid burning through resources. Big thanks for locking in and exploring the lab. Catch you in the next one 😎     
 </p>
 <br />
